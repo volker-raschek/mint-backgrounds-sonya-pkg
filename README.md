@@ -1,7 +1,6 @@
 # mint-backgrounds-sonya
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-sonya?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-sonya-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-sonya-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-sonya)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-sonya`. Instead of building the
